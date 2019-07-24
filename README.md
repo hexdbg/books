@@ -10,5 +10,7 @@
     - Protection
     - Interrupt and Exception Handling
 - DDK手册
+- WRK
+- ReactOS
 - Rootkit - Subverting the kernel
 - The Rootkit Arsenal 
