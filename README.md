@@ -14,3 +14,5 @@
 - ReactOS
 - Rootkit - Subverting the kernel
 - The Rootkit Arsenal 
+- Windows Internals, Part 1 (6th Edition)
+- Windows Internals, Part 2 (6th Edition)
