@@ -1,5 +1,9 @@
 # books
+
 学习书单
+# 汇编学习
+- 各家指令手册
+- Guide to Assembly Language A Concise Introduction (作者:（美）斯特泊， 中文版 《汇编语言基础教程》)
 
 # Windows 驱动
 - Windows驱动技术开发详解
